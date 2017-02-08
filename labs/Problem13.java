@@ -5,7 +5,7 @@ SOFTWARE DEV.
 LAB 1
 
 */
-public class Problem13{
+public class Problem_1_3{
   public void Main(String[] args){
 
    System.out.println();

@@ -8,7 +8,7 @@ problem 2.1
 
 import java.util.Scanner;
 
-public class problem21{
+public class problem2_1 {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.print("Enter a degree in Celsius: ");
