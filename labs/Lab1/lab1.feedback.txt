@@ -1,0 +1,35 @@
+8 pts
+
+Joseph,
+
+Please organize your repository. It is in your best interest that I can find
+your programs so that I can grade them.
+
+Now, about your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- You used tabs, which is forbidden. -1pt
+
+- There is incorrect indentation. -1pt
+
+Please make sure you follow the style guidelines. Penalties will be higher as
+the semester moves forward.
+
+
+About your essay:
+
+- Good writing and analysis.
+
+
+
+Peace,
+
+- Dr. Rivas
