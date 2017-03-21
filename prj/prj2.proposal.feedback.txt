@@ -1,0 +1,13 @@
+7 pts
+
+Joseph,
+
+The proposal was not in the required folder. Please organize your repository.
+
+The project idea seems interesting; however: 
+  - I specifically banned password generator projects during class. 
+  - You need to find a different project.
+
+Peace,
+
+- Dr. Rivas
