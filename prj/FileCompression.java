@@ -29,8 +29,8 @@ public class FileCompression{
   fis.close(); //close fileinput stream
   }
   public static void main(String[]args){ //main method
-  	File source = new File("Users//JoeTursi//Desktop//cmpt220tursi//prj//2//wiki.rdf");
-  	File destination = new File("Users/JoeTursi/Desktop//cmpt220tursi//prj//2//BrandSpankingNew.rdf"); //puts compressed file into this new one
+  	File source = new File("wiki.rdf.rtf");
+  	File destination = new File("BrandSpankingNew.rdf"); //puts compressed file into this new one
   	try{
   	  compress(source, destination);
   	}
